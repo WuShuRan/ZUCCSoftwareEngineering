@@ -4,7 +4,7 @@
 
 <Workspace>
 	<Local Expanded="Yes">
-		<Model Expanded="Yes" ID="{E9E3C0DF-1991-4799-8178-BB413A1CA136}" Name="SE-2016A-G08-SDv1.0" Selected="Yes" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="../SD/SE-2016A-G08-SDv1.0.oom"/>
+		<Model Expanded="Yes" ID="{E9E3C0DF-1991-4799-8178-BB413A1CA136}" Name="ObjectOrientedModel_2" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="ObjectOrientedModel_1.oom"/>
 	</Local>
 	<BrowserModule Name="Repository"/>
 </Workspace>
